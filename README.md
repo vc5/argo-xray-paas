@@ -24,7 +24,7 @@
 * 节点信息以`Clash`和`小火箭链接`方式输出
 
 ## 部署:
-* 镜像 `fscarmen/argo-xary:latest` (注:这里 xray 不是拼错，是改一下关键词而已)
+* 镜像 `vincent5/argo-xary:latest` (注:这里 xray 不是拼错，是改一下关键词而已)
 
 * PaaS 平台用到的变量
   | 变量名        | 是否必须 | 默认值 | 备注 |
@@ -42,7 +42,6 @@
   | --------------- | -------------- |
   | DOCKER_USERNAME | Dockerhub 用户名|
   | DOCKER_PASSWORD | Dockerhub 密码 |
-  | DOCKER_REPO     | Dockerhub 库名 |
 
 
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/92626977/213895533-ce4bad42-a1f0-4ee4-8590-c5bbae5989c6.png">
