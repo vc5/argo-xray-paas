@@ -41,7 +41,7 @@
   | 变量名 | 备注 |
   | --------------- | -------------- |
   | DOCKER_USERNAME | Dockerhub 用户名|
-  | DOCKER_PASSWORD | Dockerhub 密码 |
+  | DOCKERHUB_TOKEN | Dockerhub 密码 |
 
 
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/92626977/213895533-ce4bad42-a1f0-4ee4-8590-c5bbae5989c6.png">
